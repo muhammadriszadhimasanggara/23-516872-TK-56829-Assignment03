@@ -48,5 +48,5 @@ g++ -std=c++17 -Wall -Wextra -g -fsanitize=address -o problem3 problem3.cpp
 - Problem 1 (written analysis): ~2 hours
 - Problem 2 (DynArray implementation): ~1.5 hours
 - Problem 3 (search implementations): ~1 hour
-- Problem 4 (amortized analysis): ~2 hours
-- **Total: ~6.5 hours**
+- Problem 4 (amortized analysis): ~1.5 hours
+- **Total: ~6 hours**
