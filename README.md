@@ -3,8 +3,8 @@
 
 
 ## Student Information
-- **Name:** [Muhammad Risza Dhimas Anggara]
-- **Student ID:** [23/516872/TK/56829]
+- **Name:** Muhammad Risza Dhimas Anggara
+- **Student ID:** 23/516872/TK/56829
 
 
 ## Solution Descriptions
